@@ -6,13 +6,15 @@
   Built for flexibility, reliable downloads, and a better developer experience.
 </p>
 
+
 <p align="center">
-  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/Node.js-20.18%2B-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-  ![ESM](https://img.shields.io/badge/ESM-Native-black?style=for-the-badge)
-  ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
-  ![Status](https://img.shields.io/badge/Status-Experimental-orange?style=for-the-badge)
+  <img src="https://img.shields.io/badge/TypeScript-Ready-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Node.js-20.18%2B-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/ESM-Native-222222?style=for-the-badge" alt="ESM" />
+  <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" alt="MIT License" />
+  <img src="https://img.shields.io/badge/Status-Experimental-orange?style=for-the-badge" alt="Experimental" />
 </p>
+
 
 ---
 
