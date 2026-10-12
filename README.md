@@ -1,4 +1,4 @@
-# ⚡ Nivex — Next-Generation Package Management
+# ⚡ Nivex — Nivex Package Manager
 
 <p align="center">
   <strong>A smarter way to manage JavaScript and TypeScript packages.</strong>
